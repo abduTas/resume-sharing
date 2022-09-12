@@ -4,8 +4,8 @@ For authentication, I am using passport-local strategy and for salting, I am usi
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-Start front with npm start
-and backend with nodemon server/serve.js
+Start frontend app with npm start
+and backend for the same with nodemon server/serve.js
 
 use 27017 port for mongodb  database
 
